@@ -1,9 +1,9 @@
-PWD /home/user1/nu/DMTC/project_report
+PWD /home/user1/projects/insurance_ml_project/project_report
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/user1/nu/DMTC/project_report/report.tex
+INPUT /home/user1/projects/insurance_ml_project/project_report/report.tex
 OUTPUT report.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
