@@ -1,0 +1,32 @@
+Field Name, Data Type
+inscclaimamtreimbursed,int64
+deductibleamtpaid,float64
+gender,bool
+race,int64
+renaldiseaseindicator,int64
+state,int64
+county,int64
+noofmonths partacov,int64
+noofmonths partbcov,int64
+chroniccond alzheimer,bool
+chroniccond heartfailure,bool
+chroniccond kidneydisease,bool
+chroniccond cancer,bool
+chroniccond obstrpulmonary,bool
+chroniccond depression,bool
+chroniccond diabetes,bool
+chroniccond ischemicheart,bool
+chroniccond osteoporasis,bool
+chroniccond rheumatoidarthritis,bool
+chroniccond stroke,bool
+ipannualreimbursementamt,int64
+ipannualdeductibleamt,int64
+opannualreimbursementamt,int64
+opannualdeductibleamt,int64
+inpt,int64
+ageatclaim,float64
+duration,int64
+los,float64
+dead,float64
+Att Opr Oth Phy Tot Claims,float64
+Prv Tot Att Opr Oth Phys,int64

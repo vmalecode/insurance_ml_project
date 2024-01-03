@@ -1,0 +1,13 @@
+Feature, Description
+BeneID,The unique id of the beneficiary
+Dob,Date of birth of the beneficiary
+Dod,Date of death of the beneficiary
+Race,race of the beneficiary
+Gender, Gender of the beneficiary
+State, Country,State and country of the beneficiary
+RenalDiseaseIndicator,States if patient has kidney disease
+ChronicCond,The columns starting with ChronicCond indicates if the patient has that particular chronic disease
+IPAnnualReimbursementAmt,Consists of the maximum reimbursement amount for hospitalization annually
+IPAnnualDeductibleAmt,Consists of a premium paid by the patient for hospitalization annually
+OPAnnualReimbursementAmt, annual maximum reimbursement amount for outpatient visits 
+OPAnnualDeductibleAmt,Consists of a premium paid by the patient for outpatient visits annually

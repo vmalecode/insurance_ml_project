@@ -1,0 +1,3 @@
+class,precision,recall,f1-score,support
+Normal,0.902,0.972,0.936,69244
+Fraudulent,0.947,0.828,0.884,42399
